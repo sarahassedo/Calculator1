@@ -1,0 +1,42 @@
+body {
+/*	background-color: #D0D0D0*/
+}
+
+input {
+  font-size: 26px;
+  background-color: aliceblue;
+  border: none;
+  color: black;
+  padding: 25px;
+  text-align: center;
+  margin: 4px 2px;
+  border-radius: 50%;
+
+}
+
+#display {
+  font-size: 26px;
+  background-color: lightsteelblue;
+  border: none;
+  color: black;
+  padding: 25px;
+  text-align: right;
+  margin: 4px 2px;
+  border-radius: 20%;
+}
+
+
+.name {
+	font-family: helvetica;
+}
+
+.name:hover {
+  font-size: 30px;
+  background-color: aliceblue;
+  border: none;
+  color: red;
+  padding: 25px;
+  text-align: center;
+  margin: 4px 2px;
+  border-radius: 50%;
+}
